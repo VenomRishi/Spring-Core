@@ -1,0 +1,6 @@
+package com.bridgelabz.demo;
+
+public interface Sim {
+	void call();
+	void data();
+}

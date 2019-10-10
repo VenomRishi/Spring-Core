@@ -1,0 +1,17 @@
+package com.bridgelabz.demo;
+
+public class Airtel implements Sim{
+
+	@Override
+	public void call() {
+		System.out.println("Call using airtel sim");
+		
+	}
+
+	@Override
+	public void data() {
+		System.out.println("Browsing using airtel sim");
+		
+	}
+
+}

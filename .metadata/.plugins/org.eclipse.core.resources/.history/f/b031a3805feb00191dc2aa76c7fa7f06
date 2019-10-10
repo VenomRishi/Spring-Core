@@ -1,0 +1,16 @@
+package com.bridgelabz.dependencyinjection;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Exam {
+	public static void main(String[] args) {
+		@SuppressWarnings("resource")
+		ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
+		Student student = context.getBean("student", Student.class);
+		System.out.println("Student id is: "+student.getId());
+		System.out.println("Student name is: "+student.getName());
+		
+		
+	}
+}

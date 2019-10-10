@@ -1,0 +1,14 @@
+1570711444704	Encapsulate field 'name'
+1570712049409	Encapsulate field 'name'
+1570712420258	Encapsulate field 'id'
+1570712618876	Rename local variable 'student'
+1570715223868	Delete element
+1570715229953	Copy compilation units
+1570715240840	Move compilation units
+1570715536687	Rename type 'Student'
+1570716052803	Rename type 'StudentSetter'
+1570716131529	Rename type 'Student'
+1570718405650	Rename package 'com.bridgelabz.dependencyinjection'
+1570718414867	Delete element
+1570718422172	Rename package 'com.bridgelabz.dependencyinjection'
+1570718438657	Delete element
