@@ -1,0 +1,7 @@
+package com.bridgelabz.dependencyinjection.objectall;
+
+public class Exam {
+	public static void main(String[] args) {
+
+	}
+}

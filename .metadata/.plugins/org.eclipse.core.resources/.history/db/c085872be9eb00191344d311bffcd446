@@ -1,0 +1,5 @@
+package com.bridgelabz.dependencyinjection.objecttype;
+
+public class Client {
+
+}

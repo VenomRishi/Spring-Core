@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- adding dependency in the form of literals -->
+
+	<!-- dependency injection using setter method -->
+	<bean id="studentsetter"
+		class="com.bridgelabz.dependencyinjection.setter.StudentSetter">
+		<property name="id" value="1"></property>
+		<property name="name" value="Rishikesh" />
+	</bean>
+
+
+	<!-- dependency injection using constructor injection -->
+
+	<bean id="studentcons"
+		class="com.bridgelabz.dependencyinjection.constructor.Student">
+		<constructor-arg name="id" value="1" type="int" />
+		<constructor-arg name="name" value="Rishikesh"
+			type="java.lang.String" />
+	</bean>
+
+	<bean id="stud"
+		class="com.bridgelabz.dependencyinjection.objecttype.Stud">
+		<property name="id" value="3" />
+		<property name="math">
+			<bean class="com.bridgelabz.dependencyinjection.objecttype.Math"></bean>
+		</property>
+	</bean>
+
+
+	<!-- <bean id="mathObjectValue" -->
+	<!-- class="com.bridgelabz.dependencyinjection.objecttype.Math"></bean> -->
+	<!-- <bean id="stud" -->
+	<!-- class="com.bridgelabz.dependencyinjection.objecttype.Stud"> -->
+	<!-- <property name="id" value="3" /> -->
+	<!-- <property name="math" ref="mathObjectValue" /> -->
+
+	<!-- </bean> -->
+</beans>

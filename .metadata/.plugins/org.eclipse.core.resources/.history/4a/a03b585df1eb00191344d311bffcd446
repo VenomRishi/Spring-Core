@@ -1,0 +1,14 @@
+package com.bridgelabz.dependencyinjection.objectall;
+
+public class Student {
+	Cheat cheat;
+
+	public Cheat getCheat() {
+		return cheat;
+	}
+
+	public void setCheat(Cheat cheat) {
+		this.cheat = cheat;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.bridgelabz.dependencyinjection.objecttype;
+
+public class Math {
+
+	public void math() {
+		
+		
+	}
+
+}

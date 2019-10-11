@@ -1,0 +1,11 @@
+package com.bridgelabz.dependencyinjection.objectall;
+
+public class MathCheat implements Cheat {
+
+	@Override
+	public void cheat() {
+		System.out.println("Math Cheat");
+
+	}
+
+}

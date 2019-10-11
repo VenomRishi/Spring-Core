@@ -1,0 +1,5 @@
+package com.bridgelabz.dependencyinjection.objectall;
+
+public interface Cheat {
+	void cheat(); 
+}

@@ -1,0 +1,15 @@
+package com.bridgelabz.dependencyinjection.objectall;
+
+public class Student {
+	Cheat cheat;
+
+	public void setCheat(Cheat cheat) {
+		System.out.println("In set");
+		this.cheat = cheat;
+	}
+
+	public void startCheat() {
+		cheat.cheat();
+	}
+
+}
