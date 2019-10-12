@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.bridgelabz.demo.Sim"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.dependencyinjection.setter.StudentSetter"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.dependencyinjection.objecttype.Stud"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.dependencyinjection.objectall.Cheat"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="com.bridgelabz.dependencyinjection.setter.StudentSetter"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.core.Context"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.autowire.Human"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
 </qualifiedTypeNameHistroy>

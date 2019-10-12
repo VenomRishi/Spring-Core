@@ -15,6 +15,8 @@
 	<bean class="com.bridgelabz.autowire.byconstructor.Heart" id="heartObj2" />
 	<bean class="com.bridgelabz.autowire.byannotation.Heart" id="heartObj3" />
 	<bean class="com.bridgelabz.autowire.byannotation.Heart" id="heartObj4" />
+	<bean class="com.bridgelabz.autowire.byannotationwithdec.Heart" id="heartObj5" />
+	<bean class="com.bridgelabz.autowire.byannotationwithdec.Heart" id="heartObj6" />
 	
 
 	<bean id="humanType" class="com.bridgelabz.autowire.bytype.Human" autowire="byType" />
@@ -24,4 +26,6 @@
 	<bean id="humanCons" class="com.bridgelabz.autowire.byconstructor.Human" autowire="constructor" />
 
 	<bean id="humanAnnotation" class="com.bridgelabz.autowire.byannotation.Human"/>
+	
+	<bean id="humanAnnotationWithDec" class="com.bridgelabz.autowire.byannotationwithdec.Human"/>
 </beans>
