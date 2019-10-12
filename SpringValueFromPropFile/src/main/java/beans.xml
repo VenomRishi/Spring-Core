@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+        
+        <context:annotation-config/>
+        
+        <context:property-placeholder location="classpath:student_info.properties"/>
+        
+  	<bean id="student" class="com.bridgelabz.loadingpropfromfile.valuesetter.Student">
+	<!-- now we are doing this by annotation -->
+	<!-- <property name="name" value="${student.name}"/> -->
+	<!-- <property name="interestedCource" value="${student.interestedCource}"/> -->
+	<!-- <property name="hobby" value="${student.hobby}"/> -->
+  	</bean>
+  	
+  	<bean id="stud" class="com.bridgelabz.loadingpropfromfile.valuefield.Student" />
+  
+</beans>
