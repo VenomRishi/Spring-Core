@@ -5,15 +5,27 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/context
-        http://www.springframework.org/schema/context/spring-context.xsd">
+        http://www.springframework.org/schema/context/spring-context.xsd"
+        default-init-method="init"
+        default-destroy-method="destroy"
+        >
 
 	<context:annotation-config />
 	
-	<bean id="studentDao" class="com.bridgelabz.beanlifecycle.StudentDao">
+	<bean id="studentDao" class="com.bridgelabz.beanlifecycle.callinginitbyannotation.StudentDao">
 		<property name="driver" value="com.mysql.jdbc.Driver" />
 		<property name="url" value="jdbc:mysql://localhost:3306/clgdb" />
 		<property name="username" value="root" />
 		<property name="password" value="root" />
 	</bean>
 
+	<bean id="studentDao2" class="com.bridgelabz.beanlifecycle.callinginitbyxml.StudentDao"> 
+<!-- 	init-method="init" destroy-method="destroy"> -->
+		<property name="driver" value="com.mysql.jdbc.Driver" />
+		<property name="url" value="jdbc:mysql://localhost:3306/clgdb" />
+		<property name="username" value="root" />
+		<property name="password" value="root" />
+	</bean>
+	
+	<bean id="hello" class="com.bridgelabz.beanlifecycle.callinginitbyinterface.Hello"></bean>
 </beans>

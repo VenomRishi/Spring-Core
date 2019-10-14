@@ -1,4 +1,4 @@
-package com.bridgelabz.beanlifecycle;
+package com.bridgelabz.beanlifecycle.callinginitbyannotation;
 
 import java.sql.SQLException;
 
