@@ -4230,3 +4230,930 @@ Caused by: java.lang.NullPointerException
 
 !ENTRY org.eclipse.ui 2 2 2019-10-14 10:08:45.863
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.584
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.584
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.591
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.591
+!MESSAGE buffering callback sts4.classpath.qnbSxokO MavenProject false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.591
+!MESSAGE executing callback sts4.classpath.qnbSxokO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.593
+!MESSAGE executing callback sts4.classpath.qnbSxokO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.661
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.661
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.662
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.662
+!MESSAGE buffering callback sts4.classpath.qnbSxokO MavenProject false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.663
+!MESSAGE executing callback sts4.classpath.qnbSxokO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:07:03.664
+!MESSAGE executing callback sts4.classpath.qnbSxokO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:34.611
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:34.612
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:34.612
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:34.612
+!MESSAGE buffering callback sts4.classpath.qnbSxokO MavenProject false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:34.612
+!MESSAGE executing callback sts4.classpath.qnbSxokO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:34.616
+!MESSAGE executing callback sts4.classpath.qnbSxokO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:39.892
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:39.892
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:39.893
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:39.893
+!MESSAGE buffering callback sts4.classpath.qnbSxokO MavenProject false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:39.893
+!MESSAGE executing callback sts4.classpath.qnbSxokO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:08:39.894
+!MESSAGE executing callback sts4.classpath.qnbSxokO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:11.964
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:11.964
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:11.964
+!MESSAGE classpath=10 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:11.965
+!MESSAGE buffering callback sts4.classpath.qnbSxokO MavenProject false 10
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:11.965
+!MESSAGE executing callback sts4.classpath.qnbSxokO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:11.973
+!MESSAGE executing callback sts4.classpath.qnbSxokO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:12.657
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:12.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:12.657
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:12.657
+!MESSAGE buffering callback sts4.classpath.qnbSxokO MavenProject false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:12.657
+!MESSAGE executing callback sts4.classpath.qnbSxokO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:13:12.660
+!MESSAGE executing callback sts4.classpath.qnbSxokO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:39.562
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qnbSxokO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:39.563
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.qnbSxokO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:39.563
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:39.563
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qnbSxokO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:42.280
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:42.280
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4be171d1[org.springframework.tooling.boot.ls:1.11.0.201909171347(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:42.281
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.523
+!MESSAGE Boot LS startup time from start to initialized: 1242ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.553
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.nOJCnDnVisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.553
+!MESSAGE subscribing to classpath changes: sts4.classpath.nOJCnDnV isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.553
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.553
+!MESSAGE subsribers = {sts4.classpath.nOJCnDnV=Send Classpath Notifications(1040)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE project MavenProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE project DependencyInjection ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE project SpringAnnotation ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE project SpringAutowire ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE project SpringBeanLifeCycle ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE project SpringIOC ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.554
+!MESSAGE project SpringValueFromPropFile ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.555
+!MESSAGE buffering callback sts4.classpath.nOJCnDnV MavenProject false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.555
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.555
+!MESSAGE Preparing classpath changed notification DependencyInjection
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.555
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.nOJCnDnV => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.555
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.555
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.556
+!MESSAGE buffering callback sts4.classpath.nOJCnDnV DependencyInjection false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.556
+!MESSAGE Preparing classpath changed notification SpringAnnotation
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.556
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.556
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.557
+!MESSAGE buffering callback sts4.classpath.nOJCnDnV SpringAnnotation false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.557
+!MESSAGE Preparing classpath changed notification SpringAutowire
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.557
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.557
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.558
+!MESSAGE buffering callback sts4.classpath.nOJCnDnV SpringAutowire false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.558
+!MESSAGE Preparing classpath changed notification SpringBeanLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.558
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.558
+!MESSAGE classpath=64 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.559
+!MESSAGE buffering callback sts4.classpath.nOJCnDnV SpringBeanLifeCycle false 64
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.559
+!MESSAGE Preparing classpath changed notification SpringIOC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.559
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.559
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.559
+!MESSAGE buffering callback sts4.classpath.nOJCnDnV SpringIOC false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.559
+!MESSAGE Preparing classpath changed notification SpringValueFromPropFile
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.560
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.560
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.560
+!MESSAGE buffering callback sts4.classpath.nOJCnDnV SpringValueFromPropFile false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.560
+!MESSAGE executing callback sts4.classpath.nOJCnDnV 7 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:15:43.613
+!MESSAGE executing callback sts4.classpath.nOJCnDnV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:13.653
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.nOJCnDnV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:13.653
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.nOJCnDnV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:13.653
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:13.653
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.nOJCnDnV => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:21.799
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:21.800
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4be171d1[org.springframework.tooling.boot.ls:1.11.0.201909171347(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:21.800
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.025
+!MESSAGE Boot LS startup time from start to initialized: 1225ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.065
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pcuPtZTlisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.065
+!MESSAGE subscribing to classpath changes: sts4.classpath.pcuPtZTl isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.065
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.065
+!MESSAGE subsribers = {sts4.classpath.pcuPtZTl=Send Classpath Notifications(1606)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.065
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.065
+!MESSAGE project MavenProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE project DependencyInjection ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE project SpringAnnotation ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE project SpringAutowire ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE project SpringBeanLifeCycle ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE project SpringIOC ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE project SpringValueFromPropFile ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl MavenProject false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE Preparing classpath changed notification DependencyInjection
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.pcuPtZTl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.066
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.067
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.067
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl DependencyInjection false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.067
+!MESSAGE Preparing classpath changed notification SpringAnnotation
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.067
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.068
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.068
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl SpringAnnotation false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.068
+!MESSAGE Preparing classpath changed notification SpringAutowire
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.068
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.069
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.069
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl SpringAutowire false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.070
+!MESSAGE Preparing classpath changed notification SpringBeanLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.070
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.070
+!MESSAGE classpath=64 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.070
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl SpringBeanLifeCycle false 64
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.070
+!MESSAGE Preparing classpath changed notification SpringIOC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.070
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.071
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.071
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl SpringIOC false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.071
+!MESSAGE Preparing classpath changed notification SpringValueFromPropFile
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.071
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.072
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.072
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl SpringValueFromPropFile false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.072
+!MESSAGE executing callback sts4.classpath.pcuPtZTl 7 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 11:45:23.113
+!MESSAGE executing callback sts4.classpath.pcuPtZTl SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-10-14 12:00:08.250
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2022)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:19.159
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:19.159
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:19.160
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:19.161
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl SpringAOP false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:19.161
+!MESSAGE executing callback sts4.classpath.pcuPtZTl 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:19.162
+!MESSAGE executing callback sts4.classpath.pcuPtZTl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:58.071
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:58.071
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:58.071
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:58.072
+!MESSAGE buffering callback sts4.classpath.pcuPtZTl SpringAOP false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:58.072
+!MESSAGE executing callback sts4.classpath.pcuPtZTl 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:11:58.079
+!MESSAGE executing callback sts4.classpath.pcuPtZTl SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:12:03.063
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.pcuPtZTl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:12:03.063
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.pcuPtZTl
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:12:03.063
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:12:03.063
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.pcuPtZTl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:24.933
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:24.934
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4be171d1[org.springframework.tooling.boot.ls:1.11.0.201909171347(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:24.934
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.156
+!MESSAGE Boot LS startup time from start to initialized: 1222ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.195
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CeludyaWisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.195
+!MESSAGE subscribing to classpath changes: sts4.classpath.CeludyaW isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE subsribers = {sts4.classpath.CeludyaW=Send Classpath Notifications(2365)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project SpringBeanLifeCycle ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project DependencyInjection ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE Preparing classpath changed notification SpringBeanLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project MavenProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project SpringAOP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project SpringAnnotation ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project SpringAutowire ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project SpringIOC ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.196
+!MESSAGE project SpringValueFromPropFile ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.197
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.197
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CeludyaW => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.197
+!MESSAGE classpath=64 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.197
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringBeanLifeCycle false 64
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.197
+!MESSAGE Preparing classpath changed notification DependencyInjection
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.197
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.198
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE buffering callback sts4.classpath.CeludyaW DependencyInjection false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE buffering callback sts4.classpath.CeludyaW MavenProject false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.199
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringAOP false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.200
+!MESSAGE Preparing classpath changed notification SpringAnnotation
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.200
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.200
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringAnnotation false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.200
+!MESSAGE Preparing classpath changed notification SpringAutowire
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.201
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.201
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.201
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringAutowire false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.201
+!MESSAGE Preparing classpath changed notification SpringIOC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.201
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.202
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.202
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringIOC false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.205
+!MESSAGE Preparing classpath changed notification SpringValueFromPropFile
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.205
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.206
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.206
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringValueFromPropFile false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.206
+!MESSAGE executing callback sts4.classpath.CeludyaW 8 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:13:26.253
+!MESSAGE executing callback sts4.classpath.CeludyaW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:23:03.823
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:23:03.823
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:23:03.823
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:23:03.823
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringAOP false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:23:03.823
+!MESSAGE executing callback sts4.classpath.CeludyaW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:23:03.826
+!MESSAGE executing callback sts4.classpath.CeludyaW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:07.875
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:07.878
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:07.879
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:07.879
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringAOP false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:07.879
+!MESSAGE executing callback sts4.classpath.CeludyaW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:07.881
+!MESSAGE executing callback sts4.classpath.CeludyaW SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-10-14 12:25:10.067
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1350)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-10-14 12:25:10.068
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1350)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-10-14 12:25:11.416
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1350)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-10-14 12:25:11.416
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependency> from line 34 (position: TEXT seen ...</version>\n\t</dependencies>... @38:17) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1350)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:11.437
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:11.437
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:11.437
+!MESSAGE classpath=5 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:11.437
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringAOP false 5
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:11.437
+!MESSAGE executing callback sts4.classpath.CeludyaW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:11.440
+!MESSAGE executing callback sts4.classpath.CeludyaW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:15.944
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:15.944
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:15.944
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:15.944
+!MESSAGE buffering callback sts4.classpath.CeludyaW SpringAOP false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:15.944
+!MESSAGE executing callback sts4.classpath.CeludyaW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:15.949
+!MESSAGE executing callback sts4.classpath.CeludyaW SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-10-14 12:25:42.909
+!MESSAGE Could not download javadoc for junit:junit:3.8.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:jar:javadoc:3.8.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing junit:junit:jar:javadoc:3.8.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-10-14 12:25:42.909
+!MESSAGE Could not resolve artifact junit:junit:jar:javadoc:3.8.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-10-14 12:25:42.909
+!MESSAGE Missing junit:junit:jar:javadoc:3.8.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:55.782
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CeludyaW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:55.782
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.CeludyaW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:55.782
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:55.782
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CeludyaW => OK
