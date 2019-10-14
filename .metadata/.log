@@ -5157,3 +5157,369 @@ Contains: Missing junit:junit:jar:javadoc:3.8.1
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:25:55.782
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CeludyaW => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:17.842
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:17.842
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4be171d1[org.springframework.tooling.boot.ls:1.11.0.201909171347(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:17.842
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.106
+!MESSAGE Boot LS startup time from start to initialized: 1262ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.143
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MtOeaOFZisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.143
+!MESSAGE subscribing to classpath changes: sts4.classpath.MtOeaOFZ isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.143
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.143
+!MESSAGE subsribers = {sts4.classpath.MtOeaOFZ=Send Classpath Notifications(3591)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.143
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.143
+!MESSAGE project SpringAOP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE project DependencyInjection ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE project MavenProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE project SpringAnnotation ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE project SpringAutowire ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE project SpringBeanLifeCycle ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE project SpringIOC ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE project SpringValueFromPropFile ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE classpath=15 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MtOeaOFZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ SpringAOP false 15
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.144
+!MESSAGE Preparing classpath changed notification DependencyInjection
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.145
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.145
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.145
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ DependencyInjection false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.146
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.146
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.146
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.146
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ MavenProject false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.146
+!MESSAGE Preparing classpath changed notification SpringAnnotation
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.146
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.147
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.147
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ SpringAnnotation false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.147
+!MESSAGE Preparing classpath changed notification SpringAutowire
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.147
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.148
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.148
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ SpringAutowire false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.148
+!MESSAGE Preparing classpath changed notification SpringBeanLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.148
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.148
+!MESSAGE classpath=64 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.149
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ SpringBeanLifeCycle false 64
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.149
+!MESSAGE Preparing classpath changed notification SpringIOC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.149
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.149
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.149
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ SpringIOC false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.149
+!MESSAGE Preparing classpath changed notification SpringValueFromPropFile
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.149
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.150
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.151
+!MESSAGE buffering callback sts4.classpath.MtOeaOFZ SpringValueFromPropFile false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.151
+!MESSAGE executing callback sts4.classpath.MtOeaOFZ 8 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:19.203
+!MESSAGE executing callback sts4.classpath.MtOeaOFZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:42.978
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MtOeaOFZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:42.978
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.MtOeaOFZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:42.978
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:47:42.978
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MtOeaOFZ => OK
+!SESSION 2019-10-14 12:47:46.203 -----------------------------------------------
+eclipse.buildId=4.4.0.201909171436-RELEASE
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -data file:/home/admin1/Documents/workspace-spring/ -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2019-10-14 12:47:53.801
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-10-14 12:47:53.801
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18fcfe7e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ed0128b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2019-10-14 12:47:54.477
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2019-10-14 12:47:54.477
+!MESSAGE Could not load repository template extension contributed by 'org.eclipse.mylyn.bugzilla.ide' with connectorKind 'bugzilla'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:04.106
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:04.111
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@26c56404[org.springframework.tooling.boot.ls:1.11.0.201909171347(id=625)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:04.112
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:04.430
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.515
+!MESSAGE Boot LS startup time from start to initialized: 2367ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.577
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iOPbVAnZisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.711
+!MESSAGE subscribing to classpath changes: sts4.classpath.iOPbVAnZ isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.713
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.715
+!MESSAGE subsribers = {sts4.classpath.iOPbVAnZ=Send Classpath Notifications(96)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.715
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.715
+!MESSAGE project SpringAOP ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.716
+!MESSAGE project DependencyInjection ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.716
+!MESSAGE Preparing classpath changed notification SpringAOP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.716
+!MESSAGE project MavenProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.716
+!MESSAGE project SpringAnnotation ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.716
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.719
+!MESSAGE project SpringAutowire ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.719
+!MESSAGE project SpringBeanLifeCycle ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.719
+!MESSAGE project SpringIOC ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.719
+!MESSAGE project SpringValueFromPropFile ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.720
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.720
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.iOPbVAnZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.723
+!MESSAGE classpath=15 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.724
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ SpringAOP false 15
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.724
+!MESSAGE Preparing classpath changed notification DependencyInjection
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.735
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.737
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.738
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ DependencyInjection false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.738
+!MESSAGE Preparing classpath changed notification MavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.738
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.738
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.739
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ MavenProject false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.739
+!MESSAGE Preparing classpath changed notification SpringAnnotation
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.739
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.749
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.750
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ SpringAnnotation false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.750
+!MESSAGE Preparing classpath changed notification SpringAutowire
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.751
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.759
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.759
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ SpringAutowire false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.760
+!MESSAGE Preparing classpath changed notification SpringBeanLifeCycle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.760
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.776
+!MESSAGE classpath=64 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.777
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ SpringBeanLifeCycle false 64
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.777
+!MESSAGE Preparing classpath changed notification SpringIOC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.777
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.779
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.779
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ SpringIOC false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.779
+!MESSAGE Preparing classpath changed notification SpringValueFromPropFile
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.780
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.781
+!MESSAGE classpath=63 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.782
+!MESSAGE buffering callback sts4.classpath.iOPbVAnZ SpringValueFromPropFile false 63
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.782
+!MESSAGE executing callback sts4.classpath.iOPbVAnZ 8 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-14 12:48:06.961
+!MESSAGE executing callback sts4.classpath.iOPbVAnZ SUCCESS [done]
