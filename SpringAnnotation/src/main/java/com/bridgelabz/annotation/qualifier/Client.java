@@ -1,5 +1,19 @@
-package com.bridgelabz.annotation.qualifier;
+/******************************************************************************
+ *  Purpose: Program is written for dependency injection of spring using
+ *  		 by configuration class and also it is injecting values from
+ *  		 college_info.properties which can configure all beans which is 
+ *  	 	 present in this package this can achieve using java based config
+ *  		 and in this application we are also reducing conflict by name 
+ *  		 and by type conflict of spring framework
+ *
+ *  @author  Rishikesh Mhatre
+ *  @version 1.0
+ *  @since   12-10-2019
+ *
+ ******************************************************************************/
 
+
+package com.bridgelabz.annotation.qualifier;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

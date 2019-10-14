@@ -1,3 +1,13 @@
+/******************************************************************************
+ *  Purpose: Program is written for dependency injection of spring using
+ *  		 construction injection
+ *
+ *  @author  Rishikesh Mhatre
+ *  @version 1.0
+ *  @since   11-10-2019
+ *
+ ******************************************************************************/
+
 package com.bridgelabz.dependencyinjection.constructor;
 
 import org.springframework.context.ApplicationContext;
@@ -14,11 +24,13 @@ public class Exam {
 //		  System.out.println("Student name is: "+student.getName());
 
 		// dependency injection is used using constructor injection
-		@SuppressWarnings("resource")
+		
 		ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
 		Student student = context.getBean("studentcons", Student.class);
 
 		System.out.println(student);
+		
+		((ClassPathXmlApplicationContext)context).close();
 
 	}
 }

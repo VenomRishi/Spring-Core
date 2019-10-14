@@ -1,3 +1,15 @@
+/******************************************************************************
+ *  Purpose: Program is written for dependency injection of spring using
+ *  		 by setter method with declaration injection configure in xml
+ *  		 and in this loading property from the student_info.properties file
+ *
+ *  @author  Rishikesh Mhatre
+ *  @version 1.0
+ *  @since   12-10-2019
+ *
+ ******************************************************************************/
+
+
 package com.bridgelabz.loadingpropfromfile;
 
 import org.springframework.context.ApplicationContext;

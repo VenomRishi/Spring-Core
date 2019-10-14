@@ -1,3 +1,12 @@
+/******************************************************************************
+ *  Purpose: Program is written for showing the functionality of Student
+ *
+ *  @author  Rishikesh Mhatre
+ *  @version 1.0
+ *  @since   12-10-2019
+ *
+ ******************************************************************************/
+
 package com.bridgelabz.loadingpropfromfile;
 
 

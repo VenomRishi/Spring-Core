@@ -1,3 +1,13 @@
+/******************************************************************************
+ *  Purpose: Program is written for dependency injection of spring using
+ *  		 model class which has id math class injection using xml
+ *
+ *  @author  Rishikesh Mhatre
+ *  @version 1.0
+ *  @since   11-10-2019
+ *
+ ******************************************************************************/
+
 package com.bridgelabz.dependencyinjection.objecttype;
 
 public class Stud {
