@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+	<aop:aspectj-autoproxy />
+	
+	<bean id="triangle"
+		class="com.bridgelabz.springaop.brains.Triangle">
+		<property name="name" value="Triagle Shape"></property>
+	</bean>
+	
+	<bean id="circle" class="com.bridgelabz.springaop.brains.Circle">
+		<property name="name" value="Circle Shape"></property>
+	</bean>
+	
+	<bean id="shapeService" class="com.bridgelabz.springaop.brains.ShapeService" autowire="byName"></bean>
+
+	<bean id="loggingAspect" class="com.bridgelabz.springaop.brains.LoggingAspect"></bean>
+</beans>
