@@ -8,7 +8,7 @@
  *
  ******************************************************************************/
 
-package com.bridgelabz.dependencyinjection.objectall;
+package com.bridgelabz.dependencyinjection.objectinterface;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

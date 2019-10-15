@@ -43,10 +43,10 @@
 	<!-- </bean> -->
 
 	<!-- dependency injection in the form of object -->
-	<bean id="mathObjectValue" class="com.bridgelabz.dependencyinjection.objectall.MathCheat"></bean>
-	<bean id="scienceObjectValue" class="com.bridgelabz.dependencyinjection.objectall.ScienceCheat"></bean>
+	<bean id="mathObjectValue" class="com.bridgelabz.dependencyinjection.objectinterface.MathCheat"></bean>
+	<bean id="scienceObjectValue" class="com.bridgelabz.dependencyinjection.objectinterface.ScienceCheat"></bean>
 	
-	<bean id="cheating" class="com.bridgelabz.dependencyinjection.objectall.Student">
+	<bean id="cheating" class="com.bridgelabz.dependencyinjection.objectinterface.Student">
 		<property name="cheat" ref="scienceObjectValue" />
 	</bean>
 </beans>

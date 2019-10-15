@@ -8,7 +8,7 @@
  *
  ******************************************************************************/
 
-package com.bridgelabz.dependencyinjection.objectall;
+package com.bridgelabz.dependencyinjection.objectinterface;
 
 public class Student {
 	private Cheat cheat;

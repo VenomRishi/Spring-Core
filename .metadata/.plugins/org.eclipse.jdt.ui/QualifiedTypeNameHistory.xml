@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.bridgelabz.dependencyinjection.objectall.Cheat"/>
-    <fullyQualifiedTypeName name="ch.qos.logback.core.Context"/>
-    <fullyQualifiedTypeName name="com.bridgelabz.autowire.Human"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Required"/>
-    <fullyQualifiedTypeName name="java.text.CollationElementIterator"/>
-    <fullyQualifiedTypeName name="com.bridgelabz.annotation.CollegeConfig"/>
-    <fullyQualifiedTypeName name="com.bridgelabz.annotation.College"/>
     <fullyQualifiedTypeName name="com.bridgelabz.annotation.createbeanusingconfig.Principal"/>
     <fullyQualifiedTypeName name="com.bridgelabz.annotation.createbeanusingconfig.College"/>
     <fullyQualifiedTypeName name="com.bridgelabz.annotation.createbeanusinginterface.Teacher"/>
@@ -42,22 +35,29 @@
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.EnableAspectJAutoProxy"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.Circle"/>
     <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.Triangle"/>
     <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.ShapeService"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.After"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.AfterReturning"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.AfterThrowing"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.JoinPoint"/>
-    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Pointcut"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Around"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.ProceedingJoinPoint"/>
-    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.annotationbasedaspect.Loggable"/>
     <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.Loggable"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.annotationbasedaspect.Loggable"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Pointcut"/>
+    <fullyQualifiedTypeName name="java.awt.font.ShapeGraphicAttribute"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.annotationbasedaspect.ShapeService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.proxies.Loggable"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.proxies.FactoryService"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.proxies.ShapeService"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.proxies.ShapeServiceProxy"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.springaop.brains.proxies.LoggingAspect"/>
 </qualifiedTypeNameHistroy>

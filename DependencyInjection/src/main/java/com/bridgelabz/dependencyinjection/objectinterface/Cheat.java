@@ -7,7 +7,7 @@
  *
  ******************************************************************************/
 
-package com.bridgelabz.dependencyinjection.objectall;
+package com.bridgelabz.dependencyinjection.objectinterface;
 
 public interface Cheat {
 	void cheat();

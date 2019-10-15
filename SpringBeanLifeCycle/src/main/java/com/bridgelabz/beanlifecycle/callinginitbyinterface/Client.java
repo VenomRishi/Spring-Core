@@ -21,6 +21,5 @@ public class Client {
 		hello.service();
 		context.close();
 	}
-	
-	
+
 }

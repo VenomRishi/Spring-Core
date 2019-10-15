@@ -6,6 +6,6 @@
         http://www.springframework.org/schema/beans/spring-beans.xsd">
         
         
-	<bean id="sim" class="com.bridgelabz.demo.Airtel"></bean>
+	<bean id="sim" class="com.bridgelabz.springioc.Airtel"></bean>
 
 </beans>

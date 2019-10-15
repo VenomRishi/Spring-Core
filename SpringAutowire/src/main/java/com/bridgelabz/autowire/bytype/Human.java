@@ -13,13 +13,13 @@ package com.bridgelabz.autowire.bytype;
 
 public class Human {
 	
-	private Heart heart;
+	private Heart heart123;
 
 	public void setHeart(Heart heart) {
-		this.heart = heart;
+		this.heart123 = heart;
 	}
 
 	public void startPumping() {
-		heart.pump();
+		heart123.pump();
 	}
 }

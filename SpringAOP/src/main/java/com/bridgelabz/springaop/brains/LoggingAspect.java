@@ -100,9 +100,9 @@ public class LoggingAspect {
 	// method is going to invoked if they use the allGetters() called in @Before tag
 	// at that point @Pointcut expression will going to called
 	// use pointcut and match multiple method with same expression
-//	@Pointcut("execution(* get*())")
-//	public void allGetters() {
-//	}
+	// @Pointcut("execution(* get*())")
+	// public void allGetters() {
+	// }
 
 	// calling Aspect method when all Circle method called
 	// this can also be done using within
@@ -111,9 +111,9 @@ public class LoggingAspect {
 
 	// within will helps us to call Aspect after every method called within Circle
 	// class
-//	@Pointcut("within(com.bridgelabz.springaop.brains.Circle)")
-//	public void allCircleMethods() {
-//	}
+	// @Pointcut("within(com.bridgelabz.springaop.brains.Circle)")
+	// public void allCircleMethods() {
+	// }
 
 	// we can also use wild card in path also
 	// @Pointcut("within(om.bridgelabz.springaop.brains..*)")
@@ -141,15 +141,20 @@ public class LoggingAspect {
 	// joinPoint().getTarget() this will going to give the target of object in the
 	// jvm
 	// by using this you want also get object and make changes in it
-//	@Before("allCircleMethods()")
-//	public void loggingAdvice(JoinPoint joinPoint) {
-//		System.out.println(joinPoint.toString());
-//	}
+	// @Before("allCircleMethods()")
+	// public void loggingAdvice(JoinPoint joinPoint) {
+	// System.out.println(joinPoint.toString());
+	// }
 
-//	@Before("allCircleMethods()")
-//	public void loggingAdvice(JoinPoint joinPoint) {
-//
-//	}
+	// @Before("allCircleMethods()")
+	// public void loggingAdvice(JoinPoint joinPoint) {
+	//
+	// }
+
+	// @Before("allCircleMethods()")
+	// public void loggingAdvice(JoinPoint joinPoint) {
+	// System.out.println(joinPoint.getTarget());
+	// }
 
 	// for taking all String arguments
 	// @Before("args(String)")
@@ -188,12 +193,12 @@ public class LoggingAspect {
 	// System.out.println("String arguments method called: " + name);
 	// }
 
-	// now to handle the method which is throwing methodimport
+	// now to handle the method which is throwing method import
 	// org.aspectj.lang.annotation.After;
 	// and you want to execute advice after exception
 	// @AfterThrowing("args(name)")
 	// public void exceptionAdvice(String name) {
-	// System.out.println("Excecute advice after throwing exception");
+	// System.out.println("Execute advice after throwing exception");
 	// }
 
 	@Pointcut("execution(* get*())")
@@ -275,7 +280,7 @@ public class LoggingAspect {
 
 	// now if we want some control over calling the method
 	// we are going to create new class and understand there
-	
+
 	@Around("@annotation(com.bridgelabz.springaop.brains.Loggable)")
 	public Object aroundAdviceReturned(ProceedingJoinPoint proceedingJoinPoint) {
 		Object returnedObject = null;
