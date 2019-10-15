@@ -8,17 +8,58 @@
         http://www.springframework.org/schema/aop/spring-aop.xsd">
 
 	<aop:aspectj-autoproxy />
-	
+
 	<bean id="triangle"
 		class="com.bridgelabz.springaop.brains.Triangle">
 		<property name="name" value="Triagle Shape"></property>
 	</bean>
-	
-	<bean id="circle" class="com.bridgelabz.springaop.brains.Circle">
-		<property name="name" value="Circle Shape"></property>
-	</bean>
-	
-	<bean id="shapeService" class="com.bridgelabz.springaop.brains.ShapeService" autowire="byName"></bean>
 
-	<bean id="loggingAspect" class="com.bridgelabz.springaop.brains.LoggingAspect"></bean>
+	<bean id="circle" class="com.bridgelabz.springaop.brains.Circle">
+
+		<!-- <property name="name" value="Circle Shape"></property> commenting 
+			because to avoiding throwing exception when bean is been initialized as we 
+			are throwing Runtime Exception in setName method -->
+	</bean>
+
+	<bean id="shapeService"
+		class="com.bridgelabz.springaop.brains.ShapeService" autowire="byName"></bean>
+
+	<bean id="loggingAspect"
+		class="com.bridgelabz.springaop.brains.LoggingAspect"></bean>
+
+	<!-- creating beans for annotationbasedaspect classes -->
+	<bean id="annotriangle"
+		class="com.bridgelabz.springaop.brains.annotationbasedaspect.Triangle">
+		<property name="name" value="this is triagle"></property>
+	</bean>
+	<bean id="annocircle"
+		class="com.bridgelabz.springaop.brains.annotationbasedaspect.Circle">
+		<property name="name" value="this is circle"></property>
+	</bean>
+	<bean id="annoShapeService"
+		class="com.bridgelabz.springaop.brains.annotationbasedaspect.ShapeService"
+		autowire="byName">
+	</bean>
+	<bean id="annoLoginAspect"
+		class="com.bridgelabz.springaop.brains.annotationbasedaspect.LoggingAspect"></bean>
+
+	<!-- now we are going to create aop config which will going to contain all -->
+	<!-- the aop configuration in the xml file only we don't need to config 
+		in -->
+	<!-- java class file now lets understand it how to do it by doing the code 
+		annoLoginAspect is not a bean its aspect so how to do it remove @Aspect from 
+		the class @Pointcut("execution(* get*())") public void allGetters() {} -->
+
+	<aop:config>
+		<aop:aspect id="annoLoginAspect" ref="annoLoginAspect">
+			<!-- <aop:pointcut expression="execution(* get*())" -->
+			<!-- id="allGetters" /> -->
+			<aop:around method="aroundAdviceReturnedAllGetters"
+				pointcut="execution(* get*())" />
+		</aop:aspect>
+
+
+
+	</aop:config>
+
 </beans>

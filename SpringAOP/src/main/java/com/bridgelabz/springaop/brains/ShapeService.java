@@ -13,7 +13,7 @@ package com.bridgelabz.springaop.brains;
 public class ShapeService {
 	private Circle circle;
 	private Triangle triangle;
-
+	@Loggable
 	public Circle getCircle() {
 		return circle;
 	}

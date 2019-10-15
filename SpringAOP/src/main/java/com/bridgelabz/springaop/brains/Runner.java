@@ -21,7 +21,8 @@ public class Runner {
 		ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
 		ShapeService shapeService = context.getBean("shapeService", ShapeService.class);
 		System.out.println(shapeService.getCircle().getName());
-			
+		// setting value to the setter method of circle
+		shapeService.getCircle().setName("Pass New Circle");
 		((ClassPathXmlApplicationContext) context).close();
 
 	}

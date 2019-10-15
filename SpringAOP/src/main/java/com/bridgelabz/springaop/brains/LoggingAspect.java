@@ -1,6 +1,13 @@
 /******************************************************************************
  *  Purpose: Program is written for putting the aspect by using @Aspect 
  *  		 annotation @Before will be invoked before getName() method called
+ *  		 this class has now elaborated so much of annotations
+ *  		 @After @Before @AfterReturning @BeforeReturning
+ *  		 @AfterThrowing @BeforeThrowing
+ *  		 @Pointcut
+ *  		 JoinPoint in order to support around advice in aspect
+ *  		 @Around
+ *  		 
  *  		 
  *
  *  @author  Rishikesh Mhatre
@@ -12,6 +19,10 @@
 package com.bridgelabz.springaop.brains;
 
 import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.AfterReturning;
+import org.aspectj.lang.annotation.AfterThrowing;
+import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
@@ -89,20 +100,20 @@ public class LoggingAspect {
 	// method is going to invoked if they use the allGetters() called in @Before tag
 	// at that point @Pointcut expression will going to called
 	// use pointcut and match multiple method with same expression
-	@Pointcut("execution(* get*())")
-	public void allGetters() {
-	}
+//	@Pointcut("execution(* get*())")
+//	public void allGetters() {
+//	}
 
 	// calling Aspect method when all Circle method called
 	// this can also be done using within
-	// @Pointcut("execution(* * com.bridgelabz.springaop.brains.Circle.*(..))")
+	// @Pointcut("execution(* *com.bridgelabz.springaop.brains.Circle.*(..))")
 	// public void allCircleMethods() {}
 
 	// within will helps us to call Aspect after every method called within Circle
 	// class
-	@Pointcut("within(com.bridgelabz.springaop.brains.Circle)")
-	public void allCircleMethods() {
-	}
+//	@Pointcut("within(com.bridgelabz.springaop.brains.Circle)")
+//	public void allCircleMethods() {
+//	}
 
 	// we can also use wild card in path also
 	// @Pointcut("within(om.bridgelabz.springaop.brains..*)")
@@ -130,9 +141,154 @@ public class LoggingAspect {
 	// joinPoint().getTarget() this will going to give the target of object in the
 	// jvm
 	// by using this you want also get object and make changes in it
-	@Before("allCircleMethods()")
+//	@Before("allCircleMethods()")
+//	public void loggingAdvice(JoinPoint joinPoint) {
+//		System.out.println(joinPoint.toString());
+//	}
+
+//	@Before("allCircleMethods()")
+//	public void loggingAdvice(JoinPoint joinPoint) {
+//
+//	}
+
+	// for taking all String arguments
+	// @Before("args(String)")
+	// public void stringArgsMethod() {
+	// System.out.println("String arguments method called");
+	// }
+
+	// now we are going to pass name
+	// in the method arguments
+	// in this we are going to get the arguments which can be passed by main method
+	// to circle method which will be catch in this method
+	// all method with String argument will be called
+	// @Before("args(name)")
+	// public void stringArgsMethod(String name) {
+	// System.out.println("String arguments method called" + name);
+	// }
+
+	// trigger the method after execution of the method
+	// by using @After
+	// after will directly run with checking whether there is error is there or not
+	// for avoiding those thing we are going to use @AfterReturning
+	// @After("args(name)")
+	// public void stringArgsMethod(String name) {
+	// System.out.println("String arguments method called" + name);
+	// }
+
+	@Before("allCircleMethod()")
 	public void loggingAdvice(JoinPoint joinPoint) {
-		System.out.println(joinPoint.toString());
+		System.out.println("Circle method calling");
+	}
+
+	// after returning checks for exception in this method if no exception find then
+	// only @AfterReturning will be invoked
+	// @AfterReturning("args(name)")
+	// public void stringArgsMethod(String name) {
+	// System.out.println("String arguments method called: " + name);
+	// }
+
+	// now to handle the method which is throwing methodimport
+	// org.aspectj.lang.annotation.After;
+	// and you want to execute advice after exception
+	// @AfterThrowing("args(name)")
+	// public void exceptionAdvice(String name) {
+	// System.out.println("Excecute advice after throwing exception");
+	// }
+
+	@Pointcut("execution(* get*())")
+	public void allGetters() {
+	}
+
+	@Pointcut("within(com.bridgelabz.springaop.brains.Circle)")
+	public void allCircleMethod() {
+	}
+
+	// if method returning something then execute
+	// @AfterReturning("args(name)")
+	// public void stringArgsMethod(String name) {
+	// System.out.println("String arguments method called: " + name);
+	// }
+
+	// add one more property called returning
+	// pointcut = "args(name)" is input to method
+	// returning = "returnString" is output of the method
+
+	// I am pasting the method here of Circle class to understand
+	// the functionality of setting value and how to catch the returning
+	// value in advice (please do not uncomment it)
+	// public String setNameAndReturning(String name) {
+	// this.name = name;
+	// return "Rishikesh";
+	// }
+
+	// Input: Pass New Circle
+	// Output: Rishikesh
+
+	// @AfterReturning(pointcut = "args(name)", returning = "returnString")
+	// public void stringArgsMethod(String name, String returnString) {
+	// System.out.println("Input: " + name);
+	// System.out.println("Output: " + returnString);
+	// }
+
+	// to catches all return type make returning as object type
+	@AfterReturning(pointcut = "args(name)", returning = "returnString")
+	public void stringArgsMethod(String name, Object returnString) {
+		System.out.println("Input: " + name);
+		System.out.println("Output: " + returnString);
+	}
+
+	// catching the thrown exception
+
+	// public void setName(String name) {import org.aspectj.lang.annotation.Afimport
+	// org.aspectj.lanimport
+	// org.aspectj.lang.annotation.After;g.annotation.After;ter;
+	// this.name = name;
+	// throw(new RuntimeException());
+	// }
+	@AfterThrowing(pointcut = "args(name)", throwing = "ex")
+	public void exceptionAdvice(String name, Exception ex) {
+		System.out.println("Input: " + name);
+		System.out.println("Output: " + ex);
+	}
+
+	// @Around will called twice before method getting execute and after completing
+	// the method execution this advice will be called
+	//
+
+	// if the advice method is returning something then creating advice which can
+	// handle the returned object
+	// @Around("allGetters()")
+	// public Object aroundAdviceReturned(ProceedingJoinPoint proceedingJoinPoint) {
+	// Object returnedObject = null;
+	// try {
+	// System.out.println("Before advice");
+	// returnedObject = proceedingJoinPoint.proceed();
+	// System.out.println("After advice");
+	// } catch (Throwable e) {
+	// System.out.println("After Throwing");
+	// e.printStackTrace();
+	// }
+	// System.out.println("After finally");
+	// return returnedObject;
+	// }
+
+	// now if we want some control over calling the method
+	// we are going to create new class and understand there
+	
+	@Around("@annotation(com.bridgelabz.springaop.brains.Loggable)")
+	public Object aroundAdviceReturned(ProceedingJoinPoint proceedingJoinPoint) {
+		Object returnedObject = null;
+		try {
+			System.out.println("Before advice");
+			returnedObject = proceedingJoinPoint.proceed();
+			System.out.println("After advice");
+		} catch (Throwable e) {
+			System.out.println("After Throwing");
+			e.printStackTrace();
+		}
+		System.out.println("After finally");
+		return returnedObject;
 	}
 
 }

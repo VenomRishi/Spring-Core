@@ -17,7 +17,20 @@ public class Circle {
 		return name;
 	}
 
+	// public void setName(String name) {
+	// this.name = name;
+	// }
+
+	// for testing @AfterReturning annotation we are going to create setName method
+	// which will going to throw the exception
+	
 	public void setName(String name) {
 		this.name = name;
+		throw(new RuntimeException());
+	}
+	
+	public String setNameAndReturning(String name) {
+		this.name = name;
+		return "Rishikesh";
 	}
 }
