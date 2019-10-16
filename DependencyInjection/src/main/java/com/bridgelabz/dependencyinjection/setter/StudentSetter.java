@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Purpose: Program is written for dependency injection of spring using
+0 *  Purpose: Program is written for dependency injection of spring using
  *  		 setter injection configure in xml
  *
  *  @author  Rishikesh Mhatre
