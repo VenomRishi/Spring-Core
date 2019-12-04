@@ -21,7 +21,7 @@ public class Mobile {
 
 		@SuppressWarnings("resource")
 		ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
-		Sim obj=(Sim) context.getBean("sim");
+		Sim obj = (Sim) context.getBean("sim");
 		obj.call();
 		obj.data();
 	}

@@ -20,6 +20,7 @@ package com.bridgelabz.springaop.brains;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.AfterReturning;
 import org.aspectj.lang.annotation.AfterThrowing;
 import org.aspectj.lang.annotation.Around;
@@ -201,6 +202,11 @@ public class LoggingAspect {
 	// System.out.println("Execute advice after throwing exception");
 	// }
 
+	@After("allGetters()")
+	public void print() {
+		System.out.println("getters are printing");
+	}
+	
 	@Pointcut("execution(* get*())")
 	public void allGetters() {
 	}

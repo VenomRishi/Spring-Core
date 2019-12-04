@@ -47,6 +47,6 @@
 	<bean id="scienceObjectValue" class="com.bridgelabz.dependencyinjection.objectinterface.ScienceCheat"></bean>
 	
 	<bean id="cheating" class="com.bridgelabz.dependencyinjection.objectinterface.Student">
-		<property name="cheat" ref="scienceObjectValue" />
+		<property name="cheat" ref="mathObjectValue" />
 	</bean>
 </beans>
